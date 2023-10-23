@@ -14,3 +14,9 @@
         @apply text-body;
     }
 }
+
+@layer components {
+    .hero-bg {
+        background: url("https://demo.vehica.com/wp-content/uploads/2020/10/bg-1920-new.jpg");
+    }
+}
